@@ -28,10 +28,11 @@ H   H    I
 HHHHH    I 
 H   H    I 
 H   H   III
+
+
+
 🧱 File Structure
-cpp
-Copy
-Edit
+
 AsciiArt/
 ├── AsciiArtGenerator.java   // Main class
 ├── Fonts.java               // Contains font map
