@@ -22,9 +22,7 @@ Option to save the ASCII output to a .txt file.
 Supports multiple fonts (basic block font to start with).
 
 📄 Example Output for “HI”:
-css
-Copy
-Edit
+
 H   H   III
 H   H    I 
 HHHHH    I 
