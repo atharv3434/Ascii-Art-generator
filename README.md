@@ -1,7 +1,7 @@
 # Ascii-Art-generator
 
 
-🎨 ASCII Art Generator – Convert Text into ASCII Art (Java Console Project)
+🎨 ASCII Art Generator – Convert Text into ASCII Art 
 📌 Project Description
 This project converts plain text input into styled ASCII art, mimicking how large letters are formed with symbols like #, *, or @. It's fun, creative, and great for learning file handling, string manipulation, loops, and data structures in Java.
 
